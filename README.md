@@ -10,4 +10,4 @@ Este repositório tem como objetivo salvar meus passo a passos em cada uma das s
 |------|------|------------|-------------|
 | Pickle Rick | ctf, dirbuster, linux | Easy | A Rick and Morty CTF. Help turn Rick back into a human! |
 
-<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/thrnkk.png" alt="TryHackMe"> </p>
+<p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/thrnkk.png?v=1" alt="TryHackMe"> </p>
